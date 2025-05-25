@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /hidden_flag.html
+Disallow: /aGlkZGVuX2ZsYWcuaHRtbA==
